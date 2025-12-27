@@ -1,0 +1,2 @@
+# Credit-Card-Default-Prediction-Using-Customer-Behaviour-Data
+Credit card default prediction using customer demographic and behavioral data. The project includes exploratory data analysis, statistical analysis, and predictive modeling with Logistic Regression, Decision Tree, and Random Forest. Model performance is evaluated using accuracy, precision, recall, F1-score, and ROC–AUC for credit risk assessment.
